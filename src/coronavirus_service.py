@@ -17,7 +17,6 @@ class CoronavirusService:
     def do_svm_check_against_test_data(self):
         # obtencion de datos
         confirmed_df = self.dataframes.get_confirmed_df()
-        deaths_df = self.dataframes.get_deaths_df()
 
         # procesamiento de datos
         confirmed_df = self.data_processing.remove_unused_cols_from_confirmed_df(confirmed_df=confirmed_df)

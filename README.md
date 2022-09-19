@@ -12,3 +12,14 @@ In order to run this project you will need to have [docker](https://docs.docker.
 $ make build
 $ make run
 ```
+
+
+# Tareas realizadas
+  
+ Completado | Tarea y link
+---|--- 
+Si | [#2 Crear clase de obtencion de datos](https://github.com/galloramiro/coronavirus_visualization_and_prediction/issues/2)
+Si | [#3 Crear clase de procesamiento de datos](https://github.com/galloramiro/coronavirus_visualization_and_prediction/issues/3)          
+Si |  [#4 Crear clase de modelos de machine learning](https://github.com/galloramiro/coronavirus_visualization_and_prediction/issues/4)      
+Si |  [#5 Crear clase de graficos](https://github.com/galloramiro/coronavirus_visualization_and_prediction/issues/5)        
+Si |  [#6 Crear clase de servicio](https://github.com/galloramiro/coronavirus_visualization_and_prediction/issues/6)        
