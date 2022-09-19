@@ -152,7 +152,7 @@ window = 7
 
 # confirmed cases
 world_daily_increase = daily_increase(world_cases)
-world_confirmed_avg= moving_average(world_cases, window)
+world_confirmed_avg = moving_average(world_cases, window)
 world_daily_increase_avg = moving_average(world_daily_increase, window)
 
 # deaths

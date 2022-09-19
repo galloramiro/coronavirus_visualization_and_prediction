@@ -1,0 +1,33 @@
+# Presentacion
+
+- Introduccion
+  - Preguntas vinculantes
+    - ¿cuales son las preguntas vinculantes?
+  - Quienes somos?
+  - Que hacemos? 
+  - Que les vamos a compartir hoy?
+    - ¿sobre que elegimos trabajar?
+    - ¿porque lo elegimos? 
+    - ¿cual es la idea final? 
+- Teoria charla sobre el proceso que hicimos para llegar a donde estamos ahora [EMA]
+  - Identificacion de responsabilidades   
+  - Separacion de codigo etapa 1 
+  - Separacion del código etapa 2 
+- Profundizacion sobre los conceptos que utilizamos para realizar este trabajo [RAMI]
+  - Single responsability 
+  - Cohesion vs acoplamiento 
+  - Factory
+  - Analogia comida, muchos platos, pero mismas tareas
+- Presentacion de lo que para nosotros es una estructura replicable en Data Science
+  - gateway
+  - parser / processor
+  - modeling
+  - graphics
+- Presentacion de la tarea a realizar 
+  - Explicacion de los tickets
+    - Ticket grafico, explicar como esta funcion deberia recibir un dataset y no un modelo y porque lo hicimos así y como la estructura nueva nos podría permitir cambiar facilmente esto
+  - Muestra de ejemplo
+  - propuesta de encontrar y escribir nuevos tickets
+- Cierre
+  - Take aways (ideas)
+  - Mensaje superador 
